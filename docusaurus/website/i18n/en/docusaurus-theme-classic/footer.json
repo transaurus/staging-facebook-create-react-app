@@ -1,0 +1,46 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.Social": {
+    "message": "Social",
+    "description": "The title of the footer links column with title=Social in the footer"
+  },
+  "link.item.label.Get Started": {
+    "message": "Get Started",
+    "description": "The label of footer link with label=Get Started linking to docs/getting-started"
+  },
+  "link.item.label.Learn React": {
+    "message": "Learn React",
+    "description": "The label of footer link with label=Learn React linking to https://reactjs.org/"
+  },
+  "link.item.label.Stack Overflow": {
+    "message": "Stack Overflow",
+    "description": "The label of footer link with label=Stack Overflow linking to https://stackoverflow.com/questions/tagged/create-react-app"
+  },
+  "link.item.label.GitHub Discussions": {
+    "message": "GitHub Discussions",
+    "description": "The label of footer link with label=GitHub Discussions linking to https://github.com/facebook/create-react-app/discussions"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/reactjs"
+  },
+  "link.item.label.Contributor Covenant": {
+    "message": "Contributor Covenant",
+    "description": "The label of footer link with label=Contributor Covenant linking to https://www.contributor-covenant.org/version/1/4/code-of-conduct"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://www.github.com/facebook/create-react-app"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 Facebook, Inc.",
+    "description": "The footer copyright"
+  }
+}
