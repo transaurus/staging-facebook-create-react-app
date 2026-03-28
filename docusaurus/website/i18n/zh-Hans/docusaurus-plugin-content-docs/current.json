@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.Welcome": {
+    "message": "Welcome",
+    "description": "The label for category Welcome in sidebar docs"
+  },
+  "sidebar.docs.category.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for category Getting Started in sidebar docs"
+  },
+  "sidebar.docs.category.Development": {
+    "message": "Development",
+    "description": "The label for category Development in sidebar docs"
+  },
+  "sidebar.docs.category.Styles and Assets": {
+    "message": "Styles and Assets",
+    "description": "The label for category Styles and Assets in sidebar docs"
+  },
+  "sidebar.docs.category.Building your App": {
+    "message": "Building your App",
+    "description": "The label for category Building your App in sidebar docs"
+  },
+  "sidebar.docs.category.Testing": {
+    "message": "Testing",
+    "description": "The label for category Testing in sidebar docs"
+  },
+  "sidebar.docs.category.Back-End Integration": {
+    "message": "Back-End Integration",
+    "description": "The label for category Back-End Integration in sidebar docs"
+  },
+  "sidebar.docs.category.Deployment": {
+    "message": "Deployment",
+    "description": "The label for category Deployment in sidebar docs"
+  },
+  "sidebar.docs.category.Advanced Usage": {
+    "message": "Advanced Usage",
+    "description": "The label for category Advanced Usage in sidebar docs"
+  },
+  "sidebar.docs.category.Support": {
+    "message": "Support",
+    "description": "The label for category Support in sidebar docs"
+  }
+}

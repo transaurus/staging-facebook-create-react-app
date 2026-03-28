@@ -7,6 +7,10 @@
 'use strict';
 
 const siteConfig = {
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "zh-Hans"],
+  },
   title: 'Create React App',
   tagline:
     'Create React App has been deprecated. Please visit react.dev for modern options.',
